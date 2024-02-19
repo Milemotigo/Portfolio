@@ -8,7 +8,8 @@ django = "*"
 mysqlclient = "*"
 pillow = "*"
 psycopg2-binary = "*"
-pytz = "*"
+python-dateutil = "*"
+tzdata = "==2022.2"
 
 [dev-packages]
 
